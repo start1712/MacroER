@@ -1,9 +1,9 @@
 ---
-name: Bug 报告
+name: Bug报告
 about: 在使用过程中发现了软件的Bug
 title: ''
-labels: ''
-assignees: start1712
+labels: Bug
+assignees: typ3s
 
 ---
 
