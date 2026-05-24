@@ -1,6 +1,7 @@
 name: "Bug报告"
 description: "在使用过程中发现了软件的Bug"
 labels: [Bug]
+assignees: typ3s
 body:
 - type: checkboxes
   id: "yml-1"
