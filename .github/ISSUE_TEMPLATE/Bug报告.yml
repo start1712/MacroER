@@ -27,10 +27,7 @@ body:
   attributes:
     label: 复现步骤
     description: "一步步写清楚如何复现这个bug，能复现的bug才是能被修复的bug"
-    placeholder: "1. 进入页面 xxx
-      2. 点击 xxx 按钮
-      3. 输入 xxx 内容
-      4. 触发 xxx 操作，出现bug"
+    placeholder: "1. 进入页面 xxx\n2. 点击 xxx 按钮\n3. 输入 xxx 内容\n4. 触发 xxx 操作，出现bug"
   validations:
     required: true
 - type: textarea
