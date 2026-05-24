@@ -16,9 +16,7 @@ body:
   attributes:
     label: 功能详细描述
     description: "详细描述这个功能是怎么样的"
-    placeholder: "1. 功能名称： xxx
-      2. 核心功能： xxx
-      3. 交互流程： xxx"
+    placeholder: "1. 功能名称： xxx\n2. 核心功能： xxx\n3. 交互流程： xxx"
   validations:
     required: true
 - type: textarea
