@@ -32,8 +32,6 @@ body:
   attributes:
     label: 设想的实现方案（可选）
     description: "你认为改怎么实现这个功能"
-    placeholder: "1. 后端：
-      2. 前端：
-      3. 参考案例（附截图/链接）："
+    placeholder: "1. 后端：\n2. 前端：\n3. 参考案例（附截图/链接）："
   validations:
     required: false
