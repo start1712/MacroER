@@ -1,0 +1,40 @@
+name: "新功能请求"
+description: "为这个项目提出一个新功能的想法"
+labels: [新功能]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "请逐个检查下列项目，并勾选确认。"
+    options:
+    - label: "**我使用的 [MacroER](https://macroer.cubestyle.top) 是最新版本**"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 功能详细描述
+    description: "详细描述这个功能是怎么样的"
+    placeholder: "1. 功能名称： xxx
+      2. 核心功能： xxx
+      3. 交互流程： xxx"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 该功能能解决什么问题 / 带来什么价值
+    description: "你认为这个功能有什么用"
+    placeholder: "当前仅支持 xxx，添加后可 xxx"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-4"
+  attributes:
+    label: 设想的实现方案（可选）
+    description: "你认为改怎么实现这个功能"
+    placeholder: "1. 后端：
+      2. 前端：
+      3. 参考案例（附截图/链接）："
+  validations:
+    required: false
