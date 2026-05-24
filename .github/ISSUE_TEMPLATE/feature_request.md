@@ -1,20 +1,21 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 新功能请求
+about: 为这个项目提出一个新功能的想法
 title: ''
 labels: ''
-assignees: ''
+assignees: start1712
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**功能详细描述**
+1. 功能名称： xxx
+2. 核心功能： xxx
+3. 交互流程： xxx
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**该功能能解决什么问题 / 带来什么价值**
+当前仅支持 xxx，添加后可 xxx
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**你设想的实现方案（可选）**
+1. 后端：
+2. 前端：
+3. 参考案例（附截图/链接）：
