@@ -1,38 +1,28 @@
 ---
 name: Bug 报告
-about: 我发现了此软件的Bug
+about: 在使用过程中发现了软件的Bug
 title: ''
 labels: ''
-assignees: ''
+assignees: start1712
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**问题描述**
+清晰、简洁地描述你遇到的bug是什么，比如：没有按照动作列表运行动作
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**复现步骤**
+一步步写清楚如何复现这个bug，能复现的bug才是能被修复的bug：
+1. 进入页面 xxx
+2. 点击 xxx 按钮
+3. 输入 xxx 内容
+4. 触发 xxx 操作，出现bug
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**预期结果**
+你原本期望执行操作后会发生什么，比如：按照动作列表运行动作
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**实际结果**
+现在实际发生了什么，比如：点没有按照动作列表运行动作
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**补充信息**
+- 截图：粘贴Bug的截图
+- 其他：你尝试过的解决方案、是否在其他环境复现等
