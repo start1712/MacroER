@@ -1,6 +1,7 @@
 name: "新功能请求"
 description: "为这个项目提出一个新功能的想法"
 labels: [新功能]
+assignees: typ3s
 body:
 - type: checkboxes
   id: "yml-1"
